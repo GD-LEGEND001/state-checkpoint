@@ -6,9 +6,9 @@ class Home extends Component {
     super(props);
     this.state = {
       person: {
-        fullName: "John Doe",
+        fullName: "Khaleed ",
         bio: "A curious learner exploring the world of code.",
-        imgSrc: "https://via.placeholder.com/200",
+        imgSrc: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6muRn4lg15ePCU7KStYWT8bgrnz-zUc40fg&s",
         profession: "Software Developer",
       },
       shows: false,
